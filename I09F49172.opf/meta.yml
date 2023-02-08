@@ -1,0 +1,16 @@
+id: I09F49172
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 14:57:33.270412
+last_modified: 2023-02-08 14:57:33.270559
+source_metadata:
+  title: 'RK: Bodhisatvapiṭaka'
+  language: zh
+bases:
+  D343:
+    base_file: D343.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
